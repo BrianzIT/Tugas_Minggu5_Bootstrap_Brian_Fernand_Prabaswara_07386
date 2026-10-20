@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="2440" viewBox="0 0 510 2440">
+<rect width="100%" height="100%" fill="#eaf0f9"/><text x="255.0" y="50" font-size="22" fill="#182b5c" font-weight="800" text-anchor="middle" font-family="Arial,sans-serif">WIREFRAME — RENCANA LAYOUT WEBSITE BRIAN</text>
+<rect x="25" y="78" width="460" height="74" rx="9" fill="#fff" stroke="#b7c4d6" stroke-width="2" />
+<rect x="47" y="96" width="116" height="38" rx="9" fill="#dfe8fe" stroke="#b7c4d6" stroke-width="2" />
+<text x="105" y="121" font-size="14" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">LOGO</text>
+<rect x="418" y="93" width="43" height="44" rx="9" fill="#eaf0f9" stroke="#b7c4d6" stroke-width="2" />
+<text x="440" y="121" font-size="21" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">☰</text>
+<rect x="25" y="170" width="460" height="397" rx="9" fill="#fff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="198" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">BERANDA / HERO</text>
+<rect x="48" y="211" width="414" height="156" rx="9" fill="#ecf2ff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="248" font-size="22" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Headline</text>
+<rect x="84" y="270" width="315" height="6" rx="3" fill="#cfdae9" stroke="#cfdae9" stroke-width="2" /><rect x="84" y="285" width="258.3" height="6" rx="3" fill="#cfdae9" stroke="#cfdae9" stroke-width="2" /><rect x="84" y="300" width="201.6" height="6" rx="3" fill="#cfdae9" stroke="#cfdae9" stroke-width="2" />
+<rect x="84" y="317" width="245" height="6" rx="3" fill="#cfdae9" stroke="#cfdae9" stroke-width="2" /><rect x="84" y="332" width="200.9" height="6" rx="3" fill="#cfdae9" stroke="#cfdae9" stroke-width="2" />
+<rect x="85" y="347" width="135" height="13" rx="9" fill="#bac9ed" stroke="#b7c4d6" stroke-width="2" />
+<rect x="48" y="382" width="414" height="156" rx="9" fill="#dce6f7" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="465" font-size="20" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Foto Profil Beranda</text>
+<rect x="25" y="585" width="460" height="345" rx="9" fill="#fff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="615" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">TENTANG</text>
+<rect x="47" y="635" width="416" height="131" rx="9" fill="#dce6f7" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="707" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Foto pribadi</text>
+<rect x="47" y="779" width="416" height="126" rx="9" fill="#eef3fa" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="812" font-size="17" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Deskripsi profil</text>
+<rect x="81" y="832" width="344" height="6" rx="3" fill="#cfdae9" stroke="#cfdae9" stroke-width="2" /><rect x="81" y="847" width="282.08" height="6" rx="3" fill="#cfdae9" stroke="#cfdae9" stroke-width="2" /><rect x="81" y="862" width="220.16" height="6" rx="3" fill="#cfdae9" stroke="#cfdae9" stroke-width="2" />
+<rect x="25" y="947" width="460" height="360" rx="9" fill="#fff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="976" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">PENDIDIKAN</text>
+<rect x="48" y="997" width="414" height="139" rx="9" fill="#dce6f7" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1076" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Universitas</text>
+<rect x="48" y="1150" width="414" height="64" rx="9" fill="#eef3fa" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1190" font-size="17" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Praktik Pemrograman</text>
+<rect x="48" y="1226" width="414" height="64" rx="9" fill="#eef3fa" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1265" font-size="17" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Eksplorasi Teknologi</text>
+<rect x="25" y="1326" width="460" height="373" rx="9" fill="#fff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1356" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">MINAT</text>
+<rect x="48" y="1377" width="414" height="88" rx="9" fill="#eef3fa" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1428" font-size="17" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Web Development</text>
+<rect x="48" y="1477" width="414" height="88" rx="9" fill="#eef3fa" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1528" font-size="17" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Desain Responsif</text>
+<rect x="48" y="1577" width="414" height="88" rx="9" fill="#eef3fa" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1628" font-size="17" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Sistem Informasi</text>
+<rect x="25" y="1718" width="460" height="199" rx="9" fill="#fff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1748" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">PENGHARGAAN</text>
+<rect x="48" y="1770" width="414" height="125" rx="9" fill="#eaf0f9" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1809" font-size="19" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Tabel data</text>
+<text x="255" y="1838" font-size="13" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">(horizontal scroll jika perlu)</text>
+<rect x="25" y="1935" width="460" height="221" rx="9" fill="#fff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="1965" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">SERTIFIKAT</text>
+<rect x="48" y="1982" width="414" height="34" rx="9" fill="#eaf0f9" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="2005" font-size="15" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Sertifikat 01</text>
+<rect x="48" y="2022" width="414" height="34" rx="9" fill="#eaf0f9" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="2045" font-size="15" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Sertifikat 02</text>
+<rect x="48" y="2062" width="414" height="34" rx="9" fill="#eaf0f9" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="2085" font-size="15" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Sertifikat 03</text>
+<rect x="48" y="2102" width="414" height="34" rx="9" fill="#eaf0f9" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="2125" font-size="15" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Sertifikat 04</text>
+<rect x="25" y="2176" width="460" height="163" rx="9" fill="#dae5ff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="2206" font-size="18" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">KONTAK</text>
+<rect x="48" y="2223" width="414" height="45" rx="9" fill="#f3f6ff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="2252" font-size="16" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Email</text>
+<rect x="48" y="2278" width="414" height="43" rx="9" fill="#f3f6ff" stroke="#b7c4d6" stroke-width="2" />
+<text x="255" y="2306" font-size="16" fill="#364565" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">GitHub</text>
+<text x="255" y="2392" font-size="16" fill="#5b6d91" font-weight="600" text-anchor="middle" font-family="Arial,sans-serif">Layout MOBILE (semua konten satu kolom)</text>
+</svg>
